@@ -9,6 +9,9 @@ __pycache__/
 # CSV files
 *.csv
 
+# folder
+chroma_db/
+
 # PDF files
 *.pdf
 *.zip
