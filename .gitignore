@@ -11,7 +11,9 @@ __pycache__/
 
 # folder
 chroma_db/
+chroma_db/*
 Data/
+Data/*
 
 # PDF files
 *.pdf
